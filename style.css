@@ -9,6 +9,7 @@ body {
     max-width: 900px;
     text-align: center;
     font-family: 'Rubik', sans-serif;
+    color: #333333;
 }
 
 .container h1, h2, h3 {
@@ -18,6 +19,7 @@ body {
 .container img {
     max-width: 30%;
     border-radius: 10px;
+    margin-top: 20px;
 }
 
 .navbar ul {
@@ -85,4 +87,8 @@ h1, h2 {
 
 .nav a {
     font-size: 13pt;
+}
+
+.footer {
+    margin-bottom: 20px;
 }
