@@ -8,6 +8,11 @@ body {
     margin-right: auto;
     max-width: 900px;
     text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.container h1, h2, h3 {
+    font-family: 'Fjalla One', sans-serif;
 }
 
 .container img {
@@ -49,14 +54,6 @@ body {
     border: 3px solid black;
     background-color: white;
 }*/
-
-p, a, h1, h2, h3 {
-    font-family: "arial";
-}
-
-p, a {
-    font-size: 11pt;
-}
 
 a {
     text-decoration: none;
